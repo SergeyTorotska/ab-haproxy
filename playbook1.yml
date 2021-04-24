@@ -1,6 +1,6 @@
 ---
 - name: devops
-  hosts: all
+  hosts: ab-haproxy
   become: yes
 
   
